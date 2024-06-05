@@ -9,22 +9,22 @@ h1,h2,p,h3 ,h5{
 }
 
 footer {
-    border: 5ps solid white;
+    border: 5 px solid black;
     color:grey;
 }
 
 .a{
-    width:450px;
-    height:300px
+    width:450 px;
+    height:300 px
 }
 
 .b {
-    width:500px;
-    height:300px
-    margin-left:50px;
+    width:500 px;
+    height:300 px
+    margin-left:50 px;
 }
     
 .text {
-    font-size:22px;
+    font-size:22 px;
 
 }
